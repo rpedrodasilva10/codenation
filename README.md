@@ -1,7 +1,7 @@
 # ENG-US
 
 ## Code:Nation
-[Code:Nation](https://www.codenation.com.br/) is a platform where people intersted in programming can practice and acquire knowledge through challenges, this platform offers challenges in many programming languages.
+[Code:Nation](https://www.codenation.com.br/) is a platform where people interested in programming can practice and acquire knowledge through challenges, this platform offers challenges in many programming languages.
 
 # Objective
 
