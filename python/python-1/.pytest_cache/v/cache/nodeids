@@ -1,0 +1,9 @@
+[
+  "test_submit.py::test_modules",
+  "test_submit.py::test_q_1",
+  "test_submit.py::test_q_2",
+  "test_submit.py::test_q_3",
+  "test_submit.py::test_q_4",
+  "test_submit.py::test_q_5",
+  "test_submit.py::test_q_6"
+]

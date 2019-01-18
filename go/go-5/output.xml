@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="1" failures="0" time="0.013" name="command-line-arguments">
+		<properties>
+			<property name="go.version" value="go1.10.1"></property>
+		</properties>
+		<testcase classname="command-line-arguments" name="TestSubmitParseHTML" time="0.010"></testcase>
+	</testsuite>
+</testsuites>

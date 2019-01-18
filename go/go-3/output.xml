@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="2" failures="1" time="0.032" name="command-line-arguments">
+		<properties>
+			<property name="go.version" value="go1.10.1"></property>
+		</properties>
+		<testcase classname="command-line-arguments" name="TestSubmitQuote" time="0.010"></testcase>
+		<testcase classname="command-line-arguments" name="TestSubmitQuoteByActor" time="0.020">
+			<failure message="Failed" type="">submit_test.go:52: &#xA;&#x9;&#x9;Error Trace:&#x9;submit_test.go:52&#xA;&#x9;&#x9;Error:      &#x9;Should not be: &#34;&#34;&#xA;&#x9;&#x9;Test:       &#x9;TestSubmitQuoteByActor</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
