@@ -16,7 +16,7 @@ This repository will have a subfolder for each programming language that i've so
 
 ## Code:Nation
 
-[Code:Nation](https://www.codenation.com.br/) é uma plataforma onde os interessados na área programação podem testar e adquirir conhecimentos através de desafios, a plataforma conta com desafios em várias linguagens.
+[Code:Nation](https://www.codenation.com.br/) é uma plataforma onde os interessados na área de programação podem testar e adquirir conhecimentos através de desafios, a plataforma conta com desafios em várias linguagens.
 
 ## Objetivo
 
